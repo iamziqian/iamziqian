@@ -4,7 +4,7 @@
 - 🌱 I’m enthusiastic about utilizing various algorithms to break down problems into small parts.
 - 💞️ I contribute to ...hope I can contribute soon...
 - 😄 Pronouns: she/ her
-- ⚡ Fun fact: ... I'm not a fun person... 
+- ⚡  
 
 <!---
 iamziqian/iamziqian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
