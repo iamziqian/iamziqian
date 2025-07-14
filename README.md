@@ -1,10 +1,19 @@
+# Hi there! 👋 I'm Violet
 
-- 👋 Hi, I’m Violet, pursuing my master's degree at Northeastern University in San Jose.
-- 👀 I’ve been interested in educational technology since the birth of my daughter has inspired me to learn computer science.
-- 🌱 I’m enthusiastic about utilizing various algorithms to break down problems into small parts.
-- 😄 Pronouns: she/ her
+🎓 Graduate student at Northeastern University, San Jose  
+👶 Proud mom to a spirited 2-year-old  
+💻 Coding in Python & Java, building on AWS  
+✅ AWS Certified Developer – Associate
 
-<!---
-iamziqian/iamziqian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+👀 Passionate about educational technology - my daughter inspired me to learn computer science  
+🌱 Love using algorithms to break down problems into small parts  
+🚀 Creator of Smart Reading Assistant: [Word Munch](https://github.com/iamziqian/word-munch-extension-serverless)  
+🌟 Blending fun, creativity, and learning—one line of code at a time!
+
+## Connect
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+*Teaching assistant by day, coding enthusiast by night, full-time mom always!*
