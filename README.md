@@ -13,7 +13,7 @@
 🌟 Blending fun, creativity, and learning—one line of code at a time!
 
 ## Connect
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/violet-fu-ziqian/)
 
 ---
 *Teaching assistant by day, coding enthusiast by night, full-time mom always!*
