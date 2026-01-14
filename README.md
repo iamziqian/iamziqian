@@ -1,7 +1,7 @@
-# Hi there, I'm Ziqian Violet Fu! 👋
+# Hi there, I'm Violet! 👋
 
 ## 🎓 About Me
-I'm a **Master's student in Computer Science** and **Teaching Assistant** at Northeastern University (GPA 4.0/4.0).  
+I'm a Software Engineer and Proud Working Mom!
 
 My expertise is **Backend & Distributed Systems & Infrastructure & Privacy & Security**  
 I apply an engineering mindset — solving real bottlenecks with practical architecture trade-offs.  
